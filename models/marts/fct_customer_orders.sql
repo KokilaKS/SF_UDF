@@ -1,4 +1,5 @@
--- CI test comment
+-- -- trigger CI again
+
 
 select
     c.customer_id,
