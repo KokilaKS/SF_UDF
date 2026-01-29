@@ -1,3 +1,5 @@
+-- CI test comment
+
 select
     c.customer_id,
     c.first_name,
