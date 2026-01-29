@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: transformed_raw
+    database: UDF_DEMO_DB
+    schema: RAW
+    tables:
+      - name: SOURCE_DATA
