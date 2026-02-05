@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_finance
+    database: ORC_DBT_DEMO  
+    schema: RAW_FINANCE
+    tables:
+      - name: raw_invoices
+      - name: raw_payments
